@@ -5,7 +5,7 @@ from discord import Permissions
 from colorama import Fore
 
 
-token = "OTU3OTYyOTYwOTg1MjYwMTMy.GbtU0W.gmZbOQrRJ0OFtv4c4dMTI6JBTzQYg4111ccxvU"
+token = "OTU3OTYyOTYwOTg1MjYwMTMy.G6nxPw.SbZXCN_rHkkJ4y9PGH5525su1FwMaPWiT2hFCo"
 
 SPAM_CHANNEL = ["no-name-on-top"]
 SPAM_MESSAGE = [
